@@ -16,6 +16,10 @@ cd vue-frontend
 npm run dev
 ```
 
+### Blog
+
+[点击查看 Blog](https://github.com/qiuyaofan/Blog/issues)
+
 ### 勘误及提问
 
 如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
