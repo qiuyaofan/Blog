@@ -18,6 +18,11 @@ const data: DataItem[] = [
     description: '支持多个进度、上传流程自定义修改',
     path: '/demo/uploader',
   },
+  {
+    title: 'pdf截图功能',
+    description: '可用于标记等场景',
+    path: '/demo/pdf-cropper',
+  },
 ];
 
 const toPath = (path: string) => {

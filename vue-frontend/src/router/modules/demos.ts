@@ -16,6 +16,11 @@ const routes: RouteRecordRaw[] = [
     name: 'UploaderDemo',
     component: () => import('@/views/uploader/upload-demo.vue'),
   },
+  {
+    path: '/demo/pdf-cropper',
+    name: 'PdfCropper',
+    component: () => import('@/views/pdf/pdf-cropper.vue'),
+  },
 ];
 
 export default routes;
