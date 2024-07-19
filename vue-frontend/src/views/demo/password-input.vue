@@ -1,5 +1,5 @@
 <template>
-  <div class="layout-main">
+  <div class="global-layout-content">
     <a-form :model="formState" ref="formRef" name="account" :rules="rules" labelAlign="left">
       <a-form-item label="查看密码值：">
         {{ formState.password }}
@@ -24,8 +24,4 @@ const rules = {
   password: [{ required: true, message: '请输入密码' }],
 };
 </script>
-<style lang="scss" scoped>
-.layout-main {
-  padding: 20px;
-}
-</style>
+<style lang="scss" scoped></style>

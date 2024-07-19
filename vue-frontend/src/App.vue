@@ -8,4 +8,8 @@
 import zhCN from 'ant-design-vue/es/locale/zh_CN';
 </script>
 
-<style></style>
+<style>
+.global-layout-content {
+  padding: 20px;
+}
+</style>

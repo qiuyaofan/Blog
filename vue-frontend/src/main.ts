@@ -1,3 +1,4 @@
+import './theme/antdv.less';
 import 'dayjs/locale/zh-cn';
 
 import dayjs from 'dayjs';

@@ -1,18 +1,20 @@
-# qiuyaofan的博客
+# qiuyaofan 的组件随笔
 
-### 文章目录：
+### 启动
 
-#### 算法类：
+#### 启动后端
 
-[算法题之深度遍历](https://github.com/qiuyaofan/Blog/issues/2)
+```
+cd node
+npm run start
+```
 
-[算法题之超过计算机最大数值计算](https://github.com/qiuyaofan/Blog/issues/4)
+#### 启动网站
 
-#### 基础知识：
-
-[koa洋葱模型解析](https://github.com/qiuyaofan/Blog/issues/3)
-
-[网页加载时间统计之window.performance](https://github.com/qiuyaofan/Blog/issues/1)
+```
+cd vue-frontend
+npm run dev
+```
 
 ### 勘误及提问
 

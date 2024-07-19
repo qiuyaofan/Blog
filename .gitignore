@@ -7,3 +7,5 @@ dist-server
 *.log
 *.error
 components.d.ts
+tmp
+node/storage
